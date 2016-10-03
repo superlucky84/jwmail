@@ -1,0 +1,15 @@
+15 Sep 20:48:09 - Have a content type: multipart/mixed
+15 Sep 20:48:09 - Main Type: multipart
+15 Sep 20:48:09 - Have a content type: multipart/alternative
+15 Sep 20:48:09 - Main Type: multipart
+15 Sep 20:48:09 - Have a content type: text/plain
+15 Sep 20:48:09 - Main Type: text
+15 Sep 20:48:09 - Received a part of type 
+15 Sep 20:48:09 - Have a content type: text/html
+15 Sep 20:48:09 - Main Type: text
+15 Sep 20:48:09 - Received a part of type 
+15 Sep 20:48:09 - Received a part of type 
+15 Sep 20:48:09 - Have a content type: image/jpeg
+15 Sep 20:48:09 - Main Type: image
+15 Sep 20:48:09 - Received a part of type 
+15 Sep 20:48:09 - Received a part of type 
